@@ -6,5 +6,5 @@
 <br>
 
 # future projects will include
-- led cube 4*4*4 (using pi pico) while referencing <a href="https://github.com/sbcshop/PICO-CUBE">this project</a>
+- 4×4×4 (or 3×3×3) led cube (using pi pico) referencing <a href="https://github.com/sbcshop/PICO-CUBE">this project</a>
 - macrogatchi using esp32 (tamagotchi but better)
