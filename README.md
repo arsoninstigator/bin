@@ -5,4 +5,4 @@
 - motion sensor pir alarm using pi pico <br>
 - macropad using pi pico / arduino (wip) <br>
 <br>
-future projects include - led cube 4*4*4 ( <a href="https://oshwlab.com/OzoNeTT/new-project">reference here</a> )
+future projects include - led cube 4*4*4
