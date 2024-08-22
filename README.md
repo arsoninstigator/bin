@@ -1,7 +1,7 @@
 # list of bin projects for hack club
 - tamagotchi on arduino (discontinued) <br> 
 - <s>door lock using raspberry pi pico</s> (approved) <br>
-- <s>motion sensor pir alarm using pi pico</s> (not approved yet) <br>
+- <a href="https://github.com/arsoninstigator/motionsensor"><s>motion sensor pir alarm using pi pico</a></s> (not approved yet) <br>
 - macropad using pi pico / arduino (wip) <br>
 <br>
 
